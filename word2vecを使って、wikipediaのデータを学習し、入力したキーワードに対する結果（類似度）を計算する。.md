@@ -1,9 +1,6 @@
 
 
 # word2vecを使って、wikipediaのデータを学習し、入力したキーワードに対する結果（類似度）を計算する。
----
----
-
 
 ## MeCab 最新辞書 "mecab-ipadic-neologd"
 ### ■　mecab-ipdic-neologdとは
