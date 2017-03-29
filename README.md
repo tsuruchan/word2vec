@@ -163,3 +163,6 @@ macOSではmalloc.hではなくstdlib.hを使うので、以下のファイル�
 
 ## 類似度計算
 https://github.com/tsuruchan/word2vec/blob/master/similality.py
+
+## Qiitaにまとめてあります
+http://qiita.com/tsuruchan/items/7d3af5c5e9182230db4e
